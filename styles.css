@@ -48,7 +48,7 @@
   --delreset: #6a1e86;
   --buttontext: #f9de37;
   --drtext: white;
-  --etext: black;
+  --eqtext: black;
 }
 body {
   background-color: var(--primarycolor);
@@ -176,7 +176,7 @@ input:hover {
   cursor: pointer;
   border-radius: 5px;
   background-color: var(--eqcolor);
-  color: var(--calctheme);
+  color: var(--eqtext);
   font-family: "League Spartan", sans-serif;
 }
 
